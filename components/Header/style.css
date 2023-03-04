@@ -1,0 +1,17 @@
+.header{
+display: flex;
+margin: 20px 10px;
+background-color: aqua;
+justify-content:center ;
+text-align: center;
+gap:300px;
+height: 30px;
+border-radius: 30px;
+
+}
+.header .el{
+color: black;
+padding: 1px ;
+
+border-radius: 10px;
+}

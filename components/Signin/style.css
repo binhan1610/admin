@@ -1,0 +1,32 @@
+.signup .input{
+    display: block;
+    margin: 20px 0px;
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 10px;
+    font-size: 30px;
+    background-color: white;
+}
+.input input{
+
+    padding: 5px ;
+    border: none;
+    outline: none;
+
+}
+.formsignup{
+    background-color: aqua;
+    margin-left: 500px;
+    margin-top: 140px;
+    display: flex;
+    justify-content: center;
+    width: 400px;
+    border-radius: 20px;
+    
+}
+.formsignup button{
+    margin-left: 70px;
+    border-radius: 20px;
+    padding: 5px;
+    width: 90px;
+}
